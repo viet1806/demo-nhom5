@@ -60,7 +60,7 @@ img {
     max-width: 100%;
 }
 .section.manin {
-    width: 1200px;
+    width: 1500px;
     margin-left:auto;
     margin-right: auto;
     float:none;
@@ -90,9 +90,44 @@ img {
     border: 1px solid blue;
     text-align: center;
 }
+.banhh h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #232122;
+    margin: 10px 0;
+    letter-spacing: 1.5px;
+}
 .cl {
     float: left;
     width: 100%;
-    border-top: dashed 10px #5c1369;
-
+    border-top: dashed 10px #7d5985;
+    margin: 10px 20px;
+}
+.trai {
+    float: left;
+    width: 75%;
+    text-align: left;
+}
+.phai {
+    float: right;
+    width: 20%;
+    text-align: left;
+}
+.cl h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #232122;
+    margin: 10px 0;
+    letter-spacing: 1.5px;
+}
+.cl h3{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+.cl .phai {
+    wit
 }
