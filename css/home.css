@@ -1,5 +1,5 @@
 *{
-
+    box-sizing: border-box;
 }
 body{
     float: left;
@@ -17,6 +17,7 @@ body{
     font-size: 50px;
     background-color: aqua;
     height: 200px;
+
 }
 .tieude p{
     padding: 50px 0;
@@ -54,4 +55,44 @@ body{
     font-weight: 1000;
     line-height: 1.25;
     text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
+.section.manin {
+    width: 1200px;
+    margin-left:auto;
+    margin-right: auto;
+    float:none;
+}
+.container {
+    float: left;
+    width: 100%;
+    border: 5px solid #5c1369;
+}
+.noidung {
+    float: left;
+    width: 100%;
+    padding: 0 15px;
+    margin: 15px 0;
+    border: 1px solid red;
+}
+.banhh{
+    float: left;
+    width: 100%;
+    padding: 10px 20px;
+}
+.banh {
+    float: left;
+    width: 23%;
+    padding: 20px 20px;
+    margin: 15px 20px;
+    border: 1px solid blue;
+    text-align: center;
+}
+.cl {
+    float: left;
+    width: 100%;
+    border-top: dashed 10px #5c1369;
+
 }
