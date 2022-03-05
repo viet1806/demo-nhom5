@@ -16,11 +16,11 @@ body{
     text-align: center;
     font-size: 50px;
     background-color: aqua;
-    height: 200px;
+    height: 300px;
 
 }
 .tieude p{
-    padding: 50px 0;
+    margin-top: -180px;
 }
 .section {
     float: left;
@@ -37,10 +37,11 @@ body{
 }
 .logo{
     float: left;
-    width: 400px;
+    margin: 20px 30px;
 }
 .toplink{
     float: right;
+    margin: 20px 30px;
 }
 .toplink ul{
     float: right;
