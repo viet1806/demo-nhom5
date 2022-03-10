@@ -1,0 +1,27 @@
+{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    float: left;
+    font-size: 16px;
+    color: #000000;
+    background-color: #e1e1e1;
+    font-weight: 1;
+    line-height: 1.25;
+    font-family: "roboto";
+    text-align: left;
+}
+.muangay{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.muahang{
+    font-family: Sansita Swashed;
+    font-size: 25px;
+    color: #ff0000;
+}
+.dh{
+    height: 50px;
+}

@@ -11,6 +11,7 @@ body{
     line-height: 1.25;
     font-family: "roboto";
     text-align: left;
+    background-image: url("https://hoaidoan.vn/wp-content/uploads/2021/03/background-dep-5.png");
 }
 .tieude{
     width: 100%;
@@ -55,7 +56,7 @@ body{
     font-size: 20px;
     float: left;
     padding: 15px 20px;
-    background-color: #e0199a;
+    background-color: #c5c5c5;
 }
 .timkiem {
     float: none;
@@ -103,9 +104,10 @@ img {
     width: 27%;
     padding: 20px 20px;
     margin: 15px 40px;
-    border: 1px solid blue;
+    border: 1px solid #ff00b8;
     text-align: center;
     height: 400px;
+    background-image: url("https://hoaidoan.vn/wp-content/uploads/2021/03/background-dep-5.png");
 }
 .banhh h1 {
     font-size: 60px;
