@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     text-decoration: none;
+    list-style: none;
 }
 body{
     float: left;
@@ -54,9 +55,11 @@ body{
     margin-left: 30px;
     list-style: none;
     font-size: 20px;
-    float: left;
     padding: 15px 20px;
     background-color: #c5c5c5;
+}
+.toplink ul li:hover{
+    background: red;
 }
 .timkiem {
     float: none;
@@ -168,7 +171,7 @@ img {
 .click {
     float: none;
     color: #ffffff;
-    background-color: #2d79dc;
+    background-color: #ff0055;
     padding: 5px 15px;
     height: 50px;
     width: 100px;
@@ -177,8 +180,22 @@ img {
     background-color: #b3e10f;
 }
 .footer {
+    float: left;
     width: 100%;
-    background: #fdfdfd;
     text-align: center;
-    background-color: #e1e1e1;
+}
+.footer-link{
+    float: left;
+    width: 100%;
+}
+.footer-link ul{
+    float: left;
+}
+.footer-link ul li{
+    float: left;
+    list-style: none;
+    margin: 10px 30px;
+}
+.footer-link ul li:hover{
+    background: red;
 }
