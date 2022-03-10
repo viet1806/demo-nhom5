@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    text-decoration: none;
 }
 body{
     float: left;
@@ -50,6 +51,10 @@ body{
     float: left;
     margin-left: 30px;
     list-style: none;
+    font-size: 20px;
+    float: left;
+    padding: 15px 20px;
+    background-color: #cccccc;
 }
 img {
     max-width: 100%;
@@ -141,6 +146,17 @@ img {
 }
 .bl img {
     max-width :100%;
+}
+.click {
+    float: none;
+    color: #ffffff;
+    background-color: #2d79dc;
+    padding: 5px 15px;
+    height: 50px;
+    width: 100px;
+}
+.click:hover{
+    background-color: #b3e10f;
 }
 .footer {
     width: 100%;
