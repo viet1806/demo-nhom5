@@ -1,0 +1,42 @@
+.dat-hang{
+    float: left;
+    width: 1500px;
+    margin-top: 30px;
+    padding: 20px;
+    background-image: url("https://thuthuatnhanh.com/wp-content/uploads/2021/12/background-cay-xanh-dep-don-gian.jpg");
+    background-size: cover;
+}
+.dat-hangtop{
+    float: left;
+    width: 50%;
+    font-family: Sansita Swashed;
+    text-align: center;
+    line-height: 24px;
+}
+.dat-hangtop p{
+    padding: 50px;
+}
+.dat-hangbot{
+    float: right;
+    width: 50%;
+    padding-right:  50px;
+}
+.dh{
+    width: 60%;
+    margin: 10px 0;
+    height: 30px;
+}
+.dhn{
+    height: 40px;
+    width: 50px;
+}
+.banhh-trai h1 {
+    font-size: 30px;
+    margin: 40px;
+}
+.timkiem{
+    margin: 30px;
+}
+
+
+

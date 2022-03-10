@@ -36,17 +36,17 @@ body{
 .header{
     padding: 20px 0;
     border-bottom: 1px solid #e1e1e1;
-    background-image: url("https://cdn.nhanh.vn/cdn/store/26/artCT/58549/can_bao_nhieu_von_de_mo_cua_hang_kinh_doanh_banh_ngot_1.jpg");
     width: 100%;
 }
 .logo{
     float: left;
-    margin: 20px 30px;
+    margin: 0px 30px;
 }
 .toplink{
     width: 100%;
     float: left;
     margin: 10px 10px;
+    height: 100px;
 }
 .menu{
     max-width: 100%;
@@ -64,7 +64,6 @@ body{
     line-height: 50px;
     position: relative;
     text-align: center;
-    background: #ffffff;
 }
 .main-menu li a{
     color: #584345;
@@ -74,10 +73,9 @@ body{
     font-weight: 400;
 }
 .main-menu li:hover>a{
-    color: #c5020d;
+    color: #8fff00;
 }
 .main-menu li:hover{
-    background-color: #ffffff;
     transition: 300ms;
 }
 .sub-menu{
@@ -111,6 +109,9 @@ body{
 .kt {
     height: 40px;
 }
+.kt:hover{
+    background: #8fff00;
+}
 img {
     max-width: 100%;
 }
@@ -125,12 +126,20 @@ img {
     width: 100%;
     border: 5px solid rgba(154, 154, 154, 0.28);
 }
+.img-a{
+    height: 400px;
+    float: left;
+    width: 100%;
+    background-image: url("https://cdn.nhanh.vn/cdn/store/26/artCT/58549/can_bao_nhieu_von_de_mo_cua_hang_kinh_doanh_banh_ngot_1.jpg");
+    color: #e1e1e1;
+}
 .noidung {
     float: left;
     width: 100%;
     padding: 0 15px;
     margin: 15px 0;
     border: 1px solid #e1e1e1;
+
 }
 .banhh{
     float: left;
