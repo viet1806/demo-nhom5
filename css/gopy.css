@@ -1,0 +1,38 @@
+.gopy{
+    width: 100%;
+}
+.ykien{
+    float: left;
+    width: 100%;
+}
+.ykien h1{
+    text-align: center;
+}
+.phanhoi{
+    float: left;
+    width: 50%;
+}
+.phanhoi button{
+    width: 30%;
+}
+.phanhoii{
+    float: right;
+    width: 50%;
+}
+.dh {
+    width: 100%;
+    margin: 20px;
+    height: 50px;
+}
+label{
+    float: left;
+    margin-left: 20px;
+    padding-left: 30px;
+}
+.ha-h{
+    float: left;
+    margin: 150px 70px;
+    font-size: larger;
+    font-style: italic;
+
+}

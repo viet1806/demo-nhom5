@@ -8,7 +8,7 @@ body{
     font-size: 16px;
     color: #000000;
     background-color: #e1e1e1;
-    font-weight: 1;
+    font-weight: 2;
     line-height: 1.25;
     font-family: "roboto";
     text-align: left;
@@ -26,7 +26,7 @@ body{
 }
 .section {
     float: left;
-    width: 100%;
+    width: 1500px;
 }
 .container{
     float: none;
@@ -170,47 +170,8 @@ img {
     border-top: dashed 10px #7d5985;
     margin: 10px 20px;
 }
-.trai {
-    float: left;
-    width: 70%;
-    text-align: left;
-}
-.phai {
-    float: right;
-    width: 30%;
-    text-align: left;
-}
-.cl h1 {
+.cl h1{
     font-size: 60px;
-    text-transform: uppercase;
-    font-weight: 500;
-    color: #232122;
-    margin: 10px 0;
-    letter-spacing: 1.5px;
-}
-.cl h3{
-    font-size: 25px;
-    text-transform: uppercase;
-    font-weight: 400;
-    letter-spacing: 1.5px;
-}
-.phai .anhtren{
-    float: left;
-    margin: 100px 0px;
-    margin-bottom: 900px;
-    padding-right: 15px;
-}
-.phai .anhduoi{
-    float: left;
-    margin: 100px 0px;
-    padding-right: 15px;
-}
-.bl {
-    width:100% ;
-    padding: 5px 20px ;
-}
-.bl img {
-    max-width :100%;
 }
 .click {
     float: none;
@@ -242,4 +203,37 @@ img {
 }
 .footer-link ul li:hover{
     background: red;
+}
+.clb{
+    float: left;
+    border: 1px solid #ffffff;
+    margin: 50px 215px;
+    font-style: italic;
+    font-weight: 2;
+}
+.clb-a{
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+.clb-b{
+    float: right;
+    width: 40%;
+    text-align: center;
+}
+.clb-a button{
+    width: 50%;
+    margin: 10px;
+    height: 50px;
+}
+.clb-b button{
+    width: 50%;
+    margin: 10px;
+    height: 50px;
+}
+.clb-a button:hover{
+    background: #8fff00;
+}
+.clb-b button:hover{
+    background: #8fff00;
 }

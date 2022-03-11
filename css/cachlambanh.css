@@ -1,0 +1,38 @@
+.nd h1 {
+    font-family: "Times New Roman";
+    text-align: center;
+    font-size: 50px;
+}
+.clb{
+    float: left;
+    border: 1px solid #ffffff;
+    margin: 50px 243px;
+    font-style: italic;
+    font-weight: 2;
+}
+.clb-a{
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+.clb-b{
+    float: right;
+    width: 40%;
+    text-align: center;
+}
+.clb-a button{
+    width: 50%;
+    margin: 10px;
+    height: 50px;
+}
+.clb-b button{
+    width: 50%;
+    margin: 10px;
+    height: 50px;
+}
+.clb-a button:hover{
+    background: #8fff00;
+}
+.clb-b button:hover{
+    background: #8fff00;
+}
